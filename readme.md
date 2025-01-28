@@ -9,7 +9,7 @@
      ollama run deepseek-r1:1.5b
      ```
 
-2. **Jalankan Aplikasi**:
+2. **Kloning Repositori**:
    - Clone repository ini:
      ```bash
      git clone https://github.com/NathanAbrahamSinaga/DeepSeek_R1_Local_UI.git
